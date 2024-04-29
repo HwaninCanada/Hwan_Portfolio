@@ -2,8 +2,6 @@
 <a href="https://www.linkedin.com/in/hwankook-kim-toronto"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
 Technical Support Specialist with a proven track record of exceeding user expectations through efficient troubleshooting, system administration, and proactive problem-solving. Skilled in supporting a wide range of hardware, software, and applications (Office 365) to ensure user productivity and system uptime. Demonstrated ability to automate tasks using scripting languages (Python, JavaScript and Powershell) to enhance team efficiency.
 
 ## Skills
