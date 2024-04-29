@@ -1,14 +1,10 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# Hello, I'm Hwan
+<a href="https://www.linkedin.com/in/hwankook-kim-toronto"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Technical Support Specialist with a proven track record of exceeding user expectations through efficient troubleshooting, system administration, and proactive problem-solving. Skilled in supporting a wide range of hardware, software, and applications (Office 365) to ensure user productivity and system uptime. Demonstrated ability to automate tasks using scripting languages (Python, JavaScript and Powershell) to enhance team efficiency.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
